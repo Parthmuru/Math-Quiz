@@ -23,3 +23,9 @@ body {
     float: none;
     text-align: left;
 }
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
